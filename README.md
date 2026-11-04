@@ -16,7 +16,7 @@ Looking for **data analyst and data science internships and new-grad roles**.
 | **[LibManage](https://github.com/Tabtes-Ion/LibManage)** | Team-built library system on a normalized MySQL schema (members, copies, loans, waitlists) | Flask, MySQL |
 | **[Heads Up](https://github.com/ParkerDingle/heads-up)** · [live](https://parkerdingle.github.io/heads-up/) | Installable calendar app on Postgres with Row Level Security and scheduled push reminders | JavaScript, Supabase |
 
-**Client websites:** [Adam's Services LLC](http://adamsservicesllc.net) · [Harpswell House redesign demo](https://harpswelldemosite.online) · [Youth in Motion](https://youthsportsbenefits.xyz)
+**Client websites:** [Adam's Services LLC](https://adamsservicesllc.net) · [Harpswell House redesign demo](https://harpswelldemosite.online) · [Youth in Motion](https://youthsportsbenefits.xyz)
 
 ### Experience
 
